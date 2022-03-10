@@ -2,5 +2,5 @@ version: '3'
 
 services:
   stub:
-    image: hello-world:latest
+    image: busybox:latest
   
